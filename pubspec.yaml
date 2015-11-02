@@ -1,0 +1,8 @@
+name: deferred_loading_example
+version: 0.0.1
+description: An example of deferred library loading in Dart.
+dependencies:
+  browser: any
+  react: "^0.8.2"
+environment:
+  sdk: ">=1.9.0 <2.0.0"
